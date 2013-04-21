@@ -6,7 +6,7 @@ title: Launching quietly
 {{ page.title }}
 ================
 
-If you possibly can, don't coincide your product releasing with your press
+If you possibly can, don't coincide your product release with your press
 release. There's no upside, only downsides:
 
 - You won't be ready if you get published early (it happens)
