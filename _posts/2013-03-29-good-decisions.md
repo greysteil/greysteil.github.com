@@ -13,7 +13,7 @@ seems obvious, and yet I consistently fail to do it.
 
 __The right information__
 
-Good decisions need the right information. As a consequence, the need to be:
+Good decisions need the right information. As a consequence, they need to be:
 
 1. __Bespoke__ - Your situation is different to that one you read about on the
 internet. You need to apply your own information.
@@ -26,7 +26,7 @@ effectively. Adversarial meetings don't do that.
 
 An interesting side effect of 2) is that amalgamating decisions together isn't
 smart - it's rarely the right time to make all of them. The cost of gathering
-information can change that, but it's worth baring in mind.
+information can change that, but it's worth bearing in mind.
 
 __No cognitive biases__
 
